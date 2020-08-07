@@ -1,0 +1,75 @@
+h1{
+    color: #269633;
+    font-weight: bold;
+    font-size: 60px;
+    font-family:"Comic sans Ms";
+    text-align: center;
+    
+}
+
+img.imgcenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+}
+body{
+    background-color: #2fc7cc;
+}
+p{
+    font-family: "Comic sans"
+}
+hr{
+    height: 10px;
+    width: 80%;
+    border-color: blue;
+}
+a.bienvenidos{
+    font-size: 50px;
+    border: none;
+    font-family: Arial;
+    background-color: #2fc7cc;
+    text-align: center;
+}
+div.indice{
+    font-size: 60px;
+    font-family: Arial;
+    color: red;
+}
+li{
+    font-size: 40px;
+    font-family: Arial;
+}
+ol{
+    color: red;
+}
+p.list{
+    font-size: 40px;
+    font-family: Arial;
+    color: black;
+}
+p.definition{
+    color: black;
+    font-family: Arial;
+    font-size: 23px;
+}
+p.historia{
+    color: black;
+    font-family: Arial;
+    font-size: 20px;
+}
+p.opinión{
+    color: black;
+    font-family: Arial;
+    font-size: 30px;
+}
+p.aditional{
+    color: black;
+    font-family: Arial;
+    font-size: 20px;
+}
+p.conclusiones{
+    color: black;
+    font-family: Arial;
+    font-size: 28px;
+}
